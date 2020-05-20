@@ -1,4 +1,4 @@
-The "Love Running" Code Institute Example website!
+## The "Love Running" Code Institute Example website!
 
 Welcome All,
 
